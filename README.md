@@ -13,3 +13,6 @@ As we all know, the machine learning system is quite harsh on the operating envi
 [3]https://github.com/twseptian/Machine-Learning-and-Security-Protecting-Systems-with-Data-and-Algorithms
 
 [4]https://github.com/PacktPublishing/Hands-on-Machine-Learning-for-Cyber-Security
+
+## Other Resources.
+[1] https://www.malwaredatascience.com/
