@@ -20,3 +20,5 @@ As we all know, the machine learning system is quite harsh on the operating envi
 [2]https://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html
 
 [3]张蕾, 崔勇, 刘静, 等. 机器学习在网络空间安全研究中的应用[J]. 计算机学报, 2018, 41(9): 1943-1975.
+
+[4]http://web.stanford.edu/class/cs259d/
