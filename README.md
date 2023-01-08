@@ -7,3 +7,5 @@ As we all know, the machine learning system is quite harsh on the operating envi
 
 ## Some similiar Repos.
 [1]https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/Security_and_MachineLearning (Japanese)
+
+[2]https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing
