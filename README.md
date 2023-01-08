@@ -16,3 +16,5 @@ As we all know, the machine learning system is quite harsh on the operating envi
 
 ## Other Resources.
 [1] https://www.malwaredatascience.com/
+
+[2]https://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html
