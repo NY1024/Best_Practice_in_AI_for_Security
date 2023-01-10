@@ -14,6 +14,8 @@ As we all know, the machine learning system is quite harsh on the operating envi
 
 [4]https://github.com/PacktPublishing/Hands-on-Machine-Learning-for-Cyber-Security
 
+[5]https://github.com/tkelleyireland/data-science-for-security-professionals
+
 ## Other Resources.
 [1] https://www.malwaredatascience.com/
 
