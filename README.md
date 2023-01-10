@@ -16,6 +16,9 @@ As we all know, the machine learning system is quite harsh on the operating envi
 
 [5]https://github.com/tkelleyireland/data-science-for-security-professionals
 
+[6]https://github.com/hija/MalwareDataScience
+
+[7]
 ## Other Resources.
 [1] https://www.malwaredatascience.com/
 
